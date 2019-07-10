@@ -14,7 +14,8 @@ console.log(a); //[1, 2]
 
 ### Obiekt `Boolean`
 
-Obiekt `Boolean` jest obiektem opakowującym (ang.wrapper ) dla wartości logicznych.
+Obiekt `Boolean` jest obiektem opak
+owującym (ang.wrapper ) dla wartości logicznych.
 Wartość przekazana jako pierwszy parametr jest w razie konieczności konwertowana do wartości logicznej. Jeśli wartość zostanie pominięta lub będzie równa 0, -0, null, false, NaN, będzie pustym łańcuchem znaków ("") lub będzie niezdefiniowana, obiekt przyjmie początkową wartość false. Dowolna inna wartość, włączając łańcuch znaków "false", spowoduje utworzenie obiektu z początkową wartością true.
 
 Obiekt `Boolean` jest wraperem dla wartości logicznych `true/false`. Wartość przekazana w konstruktorze konwertowana jest na wartość logiczną.
