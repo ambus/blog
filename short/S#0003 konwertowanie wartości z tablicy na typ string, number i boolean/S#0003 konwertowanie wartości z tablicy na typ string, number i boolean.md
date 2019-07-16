@@ -9,14 +9,14 @@ Aby przekonwertować wartości z tablicy na typ _string_, _number_ lub _boolean_
 Konwersja na typ _string_:
 ```js
 let a = ["2", "3", "4", 5, true, false, 0, -1, {}, undefined];
-a = a.map(Boolean);
+a = a.map(String);
 console.log(a); //'2', '3', '4', '5', 'true', 'false', '0', '-1', '[object Object]', 'undefined'
 ```
 
 Konwersja na typ _number_:
 ```js
 let a = ["2", "3", "4", 5, true, false, 0, -1, {}, undefined];
-a = a.map(Boolean);
+a = a.map(Number);
 console.log(a); //[ 2, 3, 4, 5, 1, 0, 0, -1, NaN, NaN ]
 ```
 Uwaga! Wartość `true` jest zmieniana na liczbę `1`.
