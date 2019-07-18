@@ -32,3 +32,7 @@ console.log(a); //[ true, true, true, true, true, false, false, true, true, fals
 
 Więcej info na [MDN Map](https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty/Array/map).
 Więcej info na [MDN Boolean](https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty/Boolean).
+
+
+### Tagi
+javascript, array, filter, Number, String, Boolean, string, number, boolean
