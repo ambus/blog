@@ -56,3 +56,6 @@ if (new Boolean(a)) {
 ```
 
 Więcej info na [MDN](https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty/Boolean).
+
+### Tagi
+Boolean, boolean, javascript, array, filter
