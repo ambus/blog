@@ -17,6 +17,7 @@ Składnia `Set`:
 new Set([iterable]);
 ```
 
-
 Więcej info na [MDN](https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty/Set).
 
+### Tagi
+set, javascript, array
